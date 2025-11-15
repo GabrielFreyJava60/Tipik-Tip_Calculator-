@@ -1,0 +1,17 @@
+{
+  "app_title": "מחשבון טיפים",
+  "bill_amount": "סכום החשבון",
+  "tip_percentage": "אחוז טיפ",
+  "custom_tip": "מותאם אישית",
+  "number_of_people": "מספר אנשים",
+  "tip_amount": "סכום טיפ",
+  "total_amount": "סכום כולל",
+  "per_person": "לכל אדם",
+  "calculate": "חשב",
+  "language": "שפה",
+  "currency": "מטבע",
+  "enter_amount": "הכנס סכום",
+  "enter_people": "הכנס מספר",
+  "split_bill": "חלוקת חשבון"
+}
+

@@ -1,0 +1,17 @@
+{
+  "app_title": "Tip Calculator",
+  "bill_amount": "Bill Amount",
+  "tip_percentage": "Tip Percentage",
+  "custom_tip": "Custom",
+  "number_of_people": "Number of People",
+  "tip_amount": "Tip Amount",
+  "total_amount": "Total Amount",
+  "per_person": "Per Person",
+  "calculate": "Calculate",
+  "language": "Language",
+  "currency": "Currency",
+  "enter_amount": "Enter amount",
+  "enter_people": "Enter number",
+  "split_bill": "Split Bill"
+}
+

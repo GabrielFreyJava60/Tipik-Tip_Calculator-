@@ -1,0 +1,17 @@
+{
+  "app_title": "Калькулятор чаевых",
+  "bill_amount": "Сумма счета",
+  "tip_percentage": "Процент чаевых",
+  "custom_tip": "Свой процент",
+  "number_of_people": "Количество людей",
+  "tip_amount": "Сумма чаевых",
+  "total_amount": "Общая сумма",
+  "per_person": "На человека",
+  "calculate": "Рассчитать",
+  "language": "Язык",
+  "currency": "Валюта",
+  "enter_amount": "Введите сумму",
+  "enter_people": "Введите количество",
+  "split_bill": "Разделить счет"
+}
+
