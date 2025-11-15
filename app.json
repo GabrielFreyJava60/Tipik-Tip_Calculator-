@@ -14,14 +14,26 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.liquidtip.calculator"
+      "bundleIdentifier": "com.gabrielfrey.liquidtipcalculator",
+      "buildNumber": "1",
+      "infoPlist": {
+        "CFBundleAllowMixedLocalizations": true,
+        "NSCameraUsageDescription": "This app does not use the camera.",
+        "NSPhotoLibraryUsageDescription": "This app does not access your photos.",
+        "NSLocationWhenInUseUsageDescription": "This app does not use your location."
+      },
+      "config": {
+        "usesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#0A0F1C"
       },
-      "package": "com.liquidtip.calculator"
+      "package": "com.gabrielfrey.liquidtipcalculator",
+      "versionCode": 1,
+      "permissions": []
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -33,6 +45,11 @@
           "fonts": []
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "your-project-id-here"
+      }
+    }
   }
 }
